@@ -1,5 +1,5 @@
 # Evaluation of arithmetic expressions using digit and symbol detection 
-### This project was done in a team of two : me and Gurusha Juneja.
+### This project was done in a team of two : me and [Gurusha Juneja](https://github.com/gurusha01).
 ## Necessary installations 
 
 The following libraries have been used for running the code:
