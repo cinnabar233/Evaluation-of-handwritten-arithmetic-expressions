@@ -4,7 +4,7 @@
 
 The following libraries have been used for running the code:
 * [`Tensorflow`](https://www.tensorflow.org) for the network architecture
-* [`PIL`](https://pypi.org/project/Pillow/) and [cv2](https://pypi.org/project/opencv-python/)or image processing 
+* [`PIL`](https://pypi.org/project/Pillow/) and [cv2](https://pypi.org/project/opencv-python/)for image processing 
 * [`Numpy`](https://numpy.org) for computation
 
 
